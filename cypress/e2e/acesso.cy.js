@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('Acesso ao site da loja', () => {
+describe('Acesso ao site da loja Individual', () => {
 
   //Acessando a loja e verificando pela imagem se a mesma foi carregada
   it('Acesso a homepage', () => {
